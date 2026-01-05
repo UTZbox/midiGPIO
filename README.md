@@ -25,7 +25,7 @@ at velocity >110. Applies to inputs and outputs.
 In program change mode the following values are defined:
 Program change no. = 1, 2, 3, 4
 
-# connections
+# board connections:
 Refer to the Teensy 4.0 PinOut here for further details:
 https://www.pjrc.com/store/teensy40.html
 
