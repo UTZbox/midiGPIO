@@ -1,0 +1,19 @@
+here you will find the recommended parts to build by yourselves
+
+pcs.  vendor/type                 usage:
+1x    Teensy 4.0 board            processing unit
+1x    Seeit ttl-relay02-5V        4 channel relay module
+1x    Prototype PCB               Main PCB
+2x    Resistor 47R                
+2x    Resistor 220R               
+1x    Resisttor 470R             
+5x    Resistor 10k               
+1x    Diode 1N4148                Protecting Serial MIDI Input
+4x    Z-Diode 3.3V                Protecting Inputs from Overvoltage
+1x    Toggle switch               Panel mounted toggle switch for Mode-input
+3x    Sixfold Screw-Terminal      pluggable screw clamp like Phoenix MSTB
+2x    MIDI DIN Connector          DIN 5-pin (180 degree) female panel-mount
+1x    USB-B to USB-A Adapter      if you like to have a in housing connector istead of fixed cable
+1x    Housing                     every type you like
+Xx    Single Wire 0.5mm2          to connect the Relays Module with Screw Terminals
+
