@@ -30,16 +30,16 @@ Refer to the Teensy 4.0 PinOut here for further details:
 https://www.pjrc.com/store/teensy40.html
 
 used pins:
-1 = Serial MIDI rx
-2 = Serial MIDI tx
-3 = Input 1 (use with external pulldown resistror)
-4 = Input 2 (use with external pulldown resistror)
-5 = Input 3 (use with external pulldown resistror)
-6 = Input 4 (use with external pulldown resistror)
-12 = Midi Mode Switch (Teensy internal Pullup used)
-13 = Output Status LED (Teensy onbard LED)
-14 = Output 1
-15 = Output 2
-16 = Output 3
+1 = Serial MIDI rx,
+2 = Serial MIDI tx,
+3 = Input 1 (use with external pulldown resistror),
+4 = Input 2 (use with external pulldown resistror),
+5 = Input 3 (use with external pulldown resistror),
+6 = Input 4 (use with external pulldown resistror),
+12 = Midi Mode Switch (Teensy internal Pullup used),
+13 = Output Status LED (Teensy onbard LED),
+14 = Output 1,
+15 = Output 2,
+16 = Output 3,
 17 = Output 4
 
